@@ -40,5 +40,5 @@ Statistical evaluation of experiment results with clear recommendations.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: monika10.dc
+- LinkedIn: www.linkedin.com/in/monika-dev-ab0222321
 - Email: Monika10.dc@gmail.com
